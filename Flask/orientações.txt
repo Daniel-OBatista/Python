@@ -1,0 +1,11 @@
+Criar um ambiente virtual e com uma pasta teste
+
+Cria uma pasta teste
+executa: python -m venv teste
+para ativar: .\teste\Scripts\Activate
+instala novamente: pip install flask    
+
+Flask==2.3.0
+Flask-SQLAlchemy==3.1.1
+Flask-Cors==3.0.10
+Werkzeug==2.3.0
